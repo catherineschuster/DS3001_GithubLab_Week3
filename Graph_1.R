@@ -3,4 +3,4 @@ Pregnancy_data <-
 
 library(ggplot2)
 ggplot(Pregnancy_data, aes(x=Cigarettes, y=Wine))
-  geom_bar()
+geom_bar()
